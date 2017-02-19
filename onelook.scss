@@ -1,20 +1,22 @@
-@import "https://fonts.googleapis.com/css?family=Raleway|Ubuntu:300";
-body {
-    font-weight: 300 !important;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 1.1rem;
-}
-#thesinput {
-    font-family: 'Raleway', sans-serif !important;
-}
-#tabs a {
-    font-size: 0.9rem !important;
-}
-.thes_defs {
-    color: #3F51B5 !important;
-    font-size: 1.1rem;
-}
-table {
-    font-weight: 300 !important;
-    font-size: 1.3rem;
+@-moz-document domain("www.onelook.com") {
+    @import "https://fonts.googleapis.com/css?family=Raleway|Ubuntu:300";
+    body {
+        font-weight: 300 !important;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.1rem;
+    }
+    #thesinput {
+        font-family: 'Raleway', sans-serif !important;
+    }
+    #tabs a {
+        font-size: 0.9rem !important;
+    }
+    .thes_defs {
+        color: #3F51B5 !important;
+        font-size: 1.1rem;
+    }
+    table {
+        font-weight: 300 !important;
+        font-size: 1.3rem;
+    }
 }
